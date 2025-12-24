@@ -10,10 +10,10 @@
 
 <div align="center">
 
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/lvm-extend-disk?style=flat-square&logo=github&color=blue)](https://github.com/yourusername/lvm-extend-disk/network)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/lvm-extend-disk?style=flat-square&logo=github&color=yellow)](https://github.com/yourusername/lvm-extend-disk/stargazers)
-[![License](https://img.shields.io/github/license/yourusername/lvm-extend-disk?style=flat-square&color=orange)](LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/lvm-extend-disk?style=flat-square&logo=github&color=purple)](https://github.com/yourusername/lvm-extend-disk/issues)
+[![GitHub forks](https://img.shields.io/github/forks/USFAkbari/LVM_Disk_Extender?style=flat-square&logo=github&color=blue)](https://github.com/USFAkbari/LVM_Disk_Extender/network)
+[![GitHub stars](https://img.shields.io/github/stars/USFAkbari/LVM_Disk_Extender?style=flat-square&logo=github&color=yellow)](https://github.com/USFAkbari/LVM_Disk_Extender/stargazers)
+[![License](https://img.shields.io/github/license/USFAkbari/LVM_Disk_Extender?style=flat-square&color=orange)](LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/USFAkbari/LVM_Disk_Extender?style=flat-square&logo=github&color=purple)](https://github.com/USFAkbari/LVM_Disk_Extender/issues)
 
 </div>
 
