@@ -47,8 +47,8 @@ This script automates the orchestration of these steps into a guided, interactiv
 
 1. **Clone the repository** (or download the script):
    ```bash
-   git clone https://github.com/yourusername/lvm-extend-disk.git
-   cd lvm-extend-disk
+   git clone https://github.com/USFAkbari/LVM_Disk_Extender.git
+   cd LVM_Disk_Extender
    ```
 
 2. **Make the script executable**:
