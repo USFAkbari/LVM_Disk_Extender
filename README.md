@@ -45,6 +45,15 @@ This script automates the orchestration of these steps into a guided, interactiv
 
 ## 🛠️ Usage
 
+### Quick Install (One-liner)
+
+Download and execute the script directly:
+```bash
+curl -fsSL https://raw.githubusercontent.com/USFAkbari/LVM_Disk_Extender/main/extend_disk.sh | sudo bash
+```
+
+### Manual Installation
+
 1. **Clone the repository** (or download the script):
    ```bash
    git clone https://github.com/USFAkbari/LVM_Disk_Extender.git
